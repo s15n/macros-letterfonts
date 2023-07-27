@@ -4,6 +4,11 @@ How to use (in einer git-repository):
 ```bat
 git submodule add <Link dieser Seite>.git
 ```
+zum Aktualisieren:
+```bat
+git submodule update --remote
+```
+
 
 How to use (im .tex Dokument):
 ```tex
