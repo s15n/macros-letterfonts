@@ -2,7 +2,7 @@ Nützliches für TeX (Deutsch)
 
 How to use (in einer git-repository):
 ```bat
-git submodule add <Link dieser Seite>.git
+git submodule add https://github.com/simon14264/macros-letterfonts.git
 ```
 zum Aktualisieren:
 ```bat
